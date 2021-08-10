@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.5.1](https://www.github.com/googleapis/python-compute/compare/v0.5.0...v0.5.1) (2021-08-10)
+
+
+### Documentation
+
+* **samples:** Adding pagination sample. ([#78](https://www.github.com/googleapis/python-compute/issues/78)) ([db0404c](https://www.github.com/googleapis/python-compute/commit/db0404c7849147dcc5bafe797e23cdb5364b381b))
+
 ## [0.5.0](https://www.github.com/googleapis/python-compute/compare/v0.4.2...v0.5.0) (2021-08-09)
 
 
